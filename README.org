@@ -1,0 +1,10 @@
+* lisp-critic
+
+The Lisp Critic scans your code for instances of bad Lisp programming practice.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/g000001/lisp-critic.git   |
+| commit  | c3f67d5  |
+| systems | lisp-critic |
+|---------+-------------------------------------------|
+
